@@ -1,0 +1,8 @@
+[05-Feb-2019 11:09:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method Repay::checkDate() in /home3/afriteri/socialoan.net/admin/viewrepaidloans.php:62
+Stack trace:
+#0 {main}
+  thrown in /home3/afriteri/socialoan.net/admin/viewrepaidloans.php on line 62
+[05-Feb-2019 11:09:15 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined method Repay::checkDate() in /home3/afriteri/socialoan.net/admin/viewrepaidloans.php:62
+Stack trace:
+#0 {main}
+  thrown in /home3/afriteri/socialoan.net/admin/viewrepaidloans.php on line 62
